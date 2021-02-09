@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STYLE>
+    <FORMSTYLE name="发文单" id="1254273557127121399">
+        <VALUE><![CDATA[]]></VALUE>
+        <TABLESTYLES>
+            <TABLESTYLE name="formmain_0013">
+                <VALUE><![CDATA[]]></VALUE>
+                <FIELDSTYLES>
+                    <FIELDSTYLE name="field0001" id="-6089338181959135340">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0002" id="-1919516293367905826">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0003" id="-6815578661337675995">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0004" id="2497062143994775255">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0005" id="7111098809200034502">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0006" id="6957903410671731244">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0007" id="577441756168736002">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0008" id="-6997196457441147670">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0009" id="6815619596543610203">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0010" id="365464877685951511">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0011" id="4056045650534877840">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0012" id="-8507540455749236316">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0013" id="2528456741697965546">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0014" id="3868153066656712250">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0015" id="1902341447893012215">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0016" id="-5033577361241847706">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0017" id="-8426712369096605534">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                    <FIELDSTYLE name="field0018" id="-5364832727128256812">
+                        <FIELDSTYLE><![CDATA[]]></FIELDSTYLE>
+                        <FIELDVALUESTYLE><![CDATA[]]></FIELDVALUESTYLE>
+                    </FIELDSTYLE>
+                </FIELDSTYLES>
+            </TABLESTYLE>
+        </TABLESTYLES>
+    </FORMSTYLE>
+</STYLE>
